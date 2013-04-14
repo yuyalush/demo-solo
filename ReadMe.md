@@ -26,4 +26,11 @@ nodesに「IPアドレス.json」ができるので
 $ knife cook root@IPアドレス
 ```
 
+## 参考サイト
+
+[chef-soloとknife-soloで手軽に環境構築をする](http://shrkw.hatenablog.com/entry/configure_with_chef-solo_and_knife-solo)
+
+[knife-soloでLinux環境構築](http://d.hatena.ne.jp/masa21kik/20130210)
+
+[開発メモ#5 : Amazon Linux で knife-solo を使って chef-solo 実行](http://d.hatena.ne.jp/naoya/20130204/1359971408)
 
