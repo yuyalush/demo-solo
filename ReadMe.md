@@ -23,7 +23,7 @@ nodesに「IPアドレス.json」ができるので
 と書き込む
 
 ```
-$ knife cook root@IPアドレス
+$ knife solo cook root@IPアドレス
 ```
 
 ## 参考サイト

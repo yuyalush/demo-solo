@@ -6,8 +6,8 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-execute "apt-get update & upgrade" do
-  command "apt-get update && apt-get upgrade -y"
+execute "apt-get upgrade" do
+  command "apt-get upgrade -y"
   ignore_failure true
 end
 
